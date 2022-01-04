@@ -1,14 +1,14 @@
-### Hi there, I'm [![Arpit Kushwaha](https://www.linkedin.com/in/kushwaha-arpit/)] 
+### Hi there, I'm [Arpit Kushwaha](https://www.linkedin.com/in/kushwaha-arpit/) 
 
-[![LeetCode](https://leetcode.com/arpitkushwaha/)(https://leetcode.com)
-[![HackerRank](https://www.hackerrank.com/arpit29062k)](https://www.hackerrank.com/arpit29062k)
+[LeetCode](https://leetcode.com/arpitkushwaha/)(https://leetcode.com)
+[HackerRank](https://www.hackerrank.com/arpit29062k) 
 
 ## I'm a Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read
 
 ### Connect with me:
