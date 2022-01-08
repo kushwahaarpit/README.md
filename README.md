@@ -17,7 +17,8 @@
 
 <a href="https://leetcode.com/anjali_1102/">
   <img align="left" alt="LeetCode Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" />
-</a>[<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.hackerrank.com/arpit29062k) 
+</a>
+[<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.hackerrank.com/arpit29062k) 
 [<img align="left" alt="ArpitKushwaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kushwaha-arpit/) 
 [<img align="left" alt="ArpitKushwaha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/alturistic_arpit/)
 <a href="mailto:ac.chauhan1102@gmail.com">
