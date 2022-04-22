@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to read
 - 🌱 WEB DEVELOPER || PYTHON DEVELOPER
 - 😄 Python || C++ || HTML || CSS || JAVA || C || SQL
-- 🤔 I’m learning Data Science || NodeJS || MongoDB
+- 🤔 I’m learning Advance Java 
 
 ### Connect with me:
 
