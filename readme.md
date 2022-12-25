@@ -6,10 +6,10 @@
 
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to read
-- 🌱 WEB DEVELOPER || PYTHON DEVELOPER
-- 😄 Python || C++ || HTML || CSS || JAVA || C || SQL
+- 🌱 WEB DEVELOPER || PYTHON DEVELOPER || JAVA DEVELOPER
+- 😄 Python || C/C++ || JAVA || SQL || SPRINGBOOT || POSTGRESQL || DOCKER ||  
 - 🤔 I’m learning Advance Java 
 
 ### Connect with me:
