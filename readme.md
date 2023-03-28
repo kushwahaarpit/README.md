@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to read
 - 🌱 JAVA DEVELOPER
 - 😄 Python || C/C++ || JAVA || SQL || SPRINGBOOT || POSTGRESQL || DOCKER ||  
-- 🤔 I’m learning Advance Java 
+
 
 ### Connect with me:
 
