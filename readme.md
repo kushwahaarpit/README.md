@@ -4,8 +4,8 @@ I am a recent graduate with a decent foundation in Java and Spring Boot, and a p
 
 ## Contact Me: 
  
-[<img align="left" alt="ArpitKushwaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kushwaha-arpit/) 
-[<img align="left" alt="Mail Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />]("mailto:arpit29062k@gmail.com")
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kushwaha-arpit/) 
+[<img src="https://img.shields.io/badge/gmail-white?&style=for-the-badge&logo=gmail&logoColor=red" />]("mailto:arpit29062k@gmail.com")
 
 <br />
 
@@ -24,17 +24,25 @@ I am a recent graduate with a decent foundation in Java and Spring Boot, and a p
 ### Coding Profile:
 
 
-[<img align="left" alt="LeetCode Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" />](https://leetcode.com/arpitkushwaha/)
-[<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/arpit29062k) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/arpitkushwaha/)
+[![LeetCode](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=black&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/arpit29062k) 
 
 
 
 
 <br />
+<!-- <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushwahaarpit&label=Profile%20views&color=32CD32&style=flat" alt="kushwahaarpit" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
+
+<br />
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahaarpit" alt="Arpit Kushwaha's github stats" /></a> 
+<a href="https://github.com/kushwahaarpit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kushwahaarpit&show_icons=true&theme=radical" alt="Arpit Kushwaha's github stats" /></a> <br />
 
 
 
----
 
 
 
