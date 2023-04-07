@@ -5,7 +5,7 @@ I am a recent graduate with a decent foundation in Java and Spring Boot, and a p
 ## Contact Me: 
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kushwaha-arpit/) 
-[<img src="https://img.shields.io/badge/gmail-white?&style=for-the-badge&logo=gmail&logoColor=red" />]("mailto:arpit29062k@gmail.com")
+<!-- [<img src="https://img.shields.io/badge/gmail-white?&style=for-the-badge&logo=gmail&logoColor=red" />]("mailto:arpit29062k@gmail.com") -->
 
 <br />
 
