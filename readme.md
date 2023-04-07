@@ -1,6 +1,15 @@
-### Hi there, I'm [Arpit Kushwaha](https://www.linkedin.com/in/kushwaha-arpit/) 
+# Hi there, I'm Arpit Kushwaha
 
-[LeetCode](https://leetcode.com/arpitkushwaha/) | [HackerRank](https://www.hackerrank.com/arpit29062k) 
+I am a recent graduate with a decent foundation in Java and Spring Boot, and a passion for software development. Throughout my academic career, I have gained a comprehensive understanding of programming concepts and techniques, including object-oriented programming, data structures, algorithms, and database systems. In addition, I have completed several internships and projects, where I have had the opportunity to apply my technical skills in real-world scenarios.
+
+## Contact Me: 
+ 
+[<img align="left" alt="ArpitKushwaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kushwaha-arpit/) 
+[<img align="left" alt="Mail Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />]("mailto:arpit29062k@gmail.com")
+
+<br />
+
+
 
 ## I'm a Developer!!
 
@@ -12,33 +21,18 @@
 - 😄 Python || C/C++ || JAVA || SQL || SPRINGBOOT || POSTGRESQL || DOCKER ||  
 
 
-### Connect with me:
+### Coding Profile:
 
 
 [<img align="left" alt="LeetCode Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" />](https://leetcode.com/arpitkushwaha/)
-[<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.hackerrank.com/arpit29062k) 
-[<img align="left" alt="ArpitKushwaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kushwaha-arpit/) 
-[<img align="left" alt="ArpitKushwaha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/alturistic_arpit/)
-[<img align="left" alt="Mail Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />]("mailto:ac.chauhan1102@gmail.com")
+[<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/arpit29062k) 
+
 
 
 
 <br />
 
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
-
-<br />
-<br />
 
 ---
 
