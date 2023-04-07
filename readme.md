@@ -9,8 +9,6 @@ I am a recent graduate with a decent foundation in Java and Spring Boot, and a p
 
 <br />
 
-
-
 ## I'm a Developer!!
 
 
@@ -20,8 +18,9 @@ I am a recent graduate with a decent foundation in Java and Spring Boot, and a p
 - 🌱 JAVA DEVELOPER
 - 😄 Python || C/C++ || JAVA || SQL || SPRINGBOOT || POSTGRESQL || DOCKER ||  
 
+<br />
 
-### Coding Profile:
+## Coding Profile:
 
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/arpitkushwaha/)
