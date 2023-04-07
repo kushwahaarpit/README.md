@@ -37,8 +37,7 @@ I am a recent graduate with a decent foundation in Java and Spring Boot, and a p
 <br />
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahaarpit" alt="Arpit Kushwaha's github stats" /></a> 
-<a href="https://github.com/kushwahaarpit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kushwahaarpit&show_icons=true&theme=radical" alt="Arpit Kushwaha's github stats" /></a> <br />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahaarpit" alt="Arpit Kushwaha's github stats" /></a><a href="https://github.com/kushwahaarpit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kushwahaarpit&show_icons=true&theme=radical" alt="Arpit Kushwaha's github stats" /></a> <br />
 
 
 
