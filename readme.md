@@ -13,10 +13,10 @@ I have a decent foundation in Java and Spring Boot, and a passion for software d
 
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to read
 - 🌱 JAVA DEVELOPER
-- 😄 Python || C/C++ || JAVA || SQL || SPRINGBOOT || POSTGRESQL || DOCKER ||  
+- 😄 JAVA || SQL || SPRINGBOOT || POSTGRESQL || DOCKER ||  
 
 <br />
 
