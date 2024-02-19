@@ -1,5 +1,6 @@
 # Hi there, I'm Arpit Kushwaha
 
+
 I have a decent foundation in Java and Spring Boot, and a passion for software development. Throughout my academic career, I have gained a comprehensive understanding of programming concepts and techniques, including object-oriented programming, data structures, algorithms, and database systems. In addition, I have completed several internships and projects, where I have had the opportunity to apply my technical skills in real-world scenarios.
 
 ## Contact Me: 
